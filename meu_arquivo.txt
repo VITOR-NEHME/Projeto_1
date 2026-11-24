@@ -5,3 +5,8 @@ E-mail: luan69meneses@gmail.com
 Projeto: Git e controle de versão
 
 Aula 2: Aprendendo sobre branches e Git diff.
+
+
+
+
+# Alteração realizada durante a aula de Git
